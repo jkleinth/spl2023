@@ -17,3 +17,5 @@ Starte nun das NodeCG Projekt.
 
 ## Developing
 Das Bundel wurde mit React geschrieben und mit Parcel und Babel gebundled. Dafür wurde ein Template genuzt welches hier zufinden ist: https://github.com/mkrl/nodecg-react/.
+
+##
