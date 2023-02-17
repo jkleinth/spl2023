@@ -18,4 +18,6 @@ Starte nun das NodeCG Projekt.
 ## Developing
 Das Bundel wurde mit React geschrieben und mit Parcel und Babel gebundled. Dafür wurde ein Template genuzt welches hier zufinden ist: https://github.com/mkrl/nodecg-react/.
 
-##
+![](/dokumentation/SPL_Logo.png)
+
+*Bei Fragen am besten über den SPL-Discord kontaktieren.*
