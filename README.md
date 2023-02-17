@@ -3,7 +3,7 @@
 Das Projekt beinhaltet das [NodeCG](https://www.nodecg.dev/)-Bundle für die Liveshow des Kurses SPL 2023. Um das Bundle nutzen zu können, muss dieses lediglich in den bundles Ordner eines [NodeCG](https://www.nodecg.dev/) Projektes kopiert werden. 
 Nähere Informationen dazu können unter folgendem Link gefunden werden: https://www.nodecg.dev/docs/installing
 
-## Getting started
+## Usage
 
 Kopiere/Klone das Repository in den `bundels` - Ordner welcher im Hauptverzeichnis des [NodeCG](https://www.nodecg.dev/) Projektes liegt.
 
