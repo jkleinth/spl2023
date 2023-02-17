@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+}
+
+.studentPoints {
+    left: 50px;
+}
+
+.game-container {
+    /* border-style: solid; */
+    position: absolute;
+    /* background-color: aqua; */
+}
+
+.lt {
+    position: absolute;
+}
+
+.ordnung {
+    position: absolute;
+    top: 787px;
+    left: 680px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex: 1;
+    justify-content: center;
+}
+
+.list-left {
+    position: absolute;
+    top: 787px;
+    left: 980px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex: 1;
+}
+
+html,
+body {
+    background-color: #efefef;
+    margin: 0;
+    overflow: hidden;
+}
+
+.game {
+    /* margin: 50px 0 0 50px; */
+    flex: 1;
+}
+
+.container-top {
+ display: flex;
+}
+
+/*
+.container-top {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex: 0 1 20%;
+    justify-content:space-between;
+    align-content: space-around;
+}
+*/
+
+.timer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 150px;
+    background-color: #979797;
+    border-radius: 20px;
+    font-size:4em;
+    margin: 50px;
+}
+
+.stopwatch {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 150px;
+    background-color: #979797;
+    border-radius: 20px;
+    font-size:4em;
+    margin: 50px;
+}
+
+.clock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 250px;
+    background-color: #979797;
+    border-radius: 500px;
+    font-size:3em;
+    margin: 50px;
+    color: darkred;
+    border-style: solid;
+    border-color: black;
+}
+
+.container-bottom {
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    height: 30%;
+    background-color: #979797;
+    margin: 0;
+    text-align: center;
+    font-size:3em;
+}
+
+.studentPoints {
+    background-color: #979797;
+    font-size: 3em;
+}
+
+.profPoints {
+    background-color: #979797;
+    font-size: 3em;
+}
+
+.container {
+    display: flex;
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/*# sourceMappingURL=display.d057bdb2.css.map */

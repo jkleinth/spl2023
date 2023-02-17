@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+}
+
+.studentPoints {
+    left: 50px;
+}
+
+.game-container {
+    /* border-style: solid; */
+    position: absolute;
+    /* background-color: aqua; */
+}
+
+.lt {
+    position: absolute;
+}
+
+.ordnung {
+    position: absolute;
+    top: 787px;
+    left: 680px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex: 1;
+    justify-content: center;
+}
+
+.list-left {
+    position: absolute;
+    top: 787px;
+    left: 980px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex: 1;
+}
+
+
+/*# sourceMappingURL=overlay.8a05d195.css.map */
